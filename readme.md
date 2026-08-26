@@ -32,3 +32,4 @@ git config --global user.name "dg"
 
 # 이메일 주소 변경
 git config --global user.email "dagyoung2755@gmail.com"
+
