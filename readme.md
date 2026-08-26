@@ -23,3 +23,6 @@ git remote add origin https://github.com/dg-logs/yeardreamschool6th.git
 
 # 기본 브랜치 이름 변경
 git branch -M main
+
+# PUSH
+git push -u origin main
