@@ -15,3 +15,11 @@ git commit -m "first commit"
 
 # commit 의 상채 확인
 git log --graph --oneline --all
+
+# 이후 vs 코드로 활용 가능
+
+# 원격 저장소 등록
+git remote add origin https://github.com/dg-logs/yeardreamschool6th.git
+
+# 기본 브랜치 이름 변경
+git branch -M main
