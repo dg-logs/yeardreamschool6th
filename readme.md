@@ -24,5 +24,11 @@ git remote add origin https://github.com/dg-logs/yeardreamschool6th.git
 # 기본 브랜치 이름 변경
 git branch -M main
 
-# PUSH
+# push
 git push -u origin main
+
+# 글로벌 저장소 이름 변경
+git config --global user.name "dg"
+
+# 이메일 주소 변경
+git config --global user.email "dagyoung2755@gmail.com"
